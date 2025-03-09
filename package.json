@@ -1,0 +1,31 @@
+{
+  "name": "backend_ads_frame",
+  "version": "1.0.0",
+  "description": "Backende FrameWorks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergiorsantana/Backend_ADS_Frame.git"
+  },
+  "keywords": [
+    "Banco",
+    "de",
+    "dados",
+    "Mongo",
+    "db",
+    "Nodejs"
+  ],
+  "author": "Sérgio Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergiorsantana/Backend_ADS_Frame/issues"
+  },
+  "homepage": "https://github.com/Sergiorsantana/Backend_ADS_Frame#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
